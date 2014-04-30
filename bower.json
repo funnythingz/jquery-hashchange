@@ -1,0 +1,23 @@
+{
+    "name": "jquery-hashchange",
+    "version": "1.3.1",
+    "main": [
+        "qflipper.js",
+        "qflipper.min.js",
+        "qflipper.d.ts",
+        "qflipper.css",
+        "demo-zepto.html",
+        "demo.html"
+    ],
+    "ignore": [
+        "**/.*",
+        "docs",
+        "example",
+        "shared",
+        "unit",
+        "LICENSE-GPL",
+        "LICENSE-MIT",
+        "README.markdown",
+        "document-domain.html"
+    ]
+}
