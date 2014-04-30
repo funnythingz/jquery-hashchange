@@ -11,8 +11,9 @@
     ],
     "ignore": [
         "**/.*",
+        "bower.json",
         "docs",
-        "example",
+        "examples",
         "shared",
         "unit",
         "LICENSE-GPL",
